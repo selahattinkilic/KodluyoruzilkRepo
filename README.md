@@ -20,6 +20,8 @@ Pull requestler kabul edilebilir. Büyük değişiklikler için, önce neyi değ
 
 [MIT](kodluyoruzilkrepo)
 
+![resim](ekran.png)
+
 
 
 
